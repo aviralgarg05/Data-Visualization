@@ -32,9 +32,6 @@ pip install plotly
 ## 7. Scatter Plot
 [![Scatter-Plot.png](https://i.postimg.cc/Pqjrww1C/Scatter-Plot.png)](https://postimg.cc/0zVsgrWv)
 
-# Author
-[Elita Menezes](https://github.com/ELITA04/) 
-
 ## 8. Contour Plot
 [![contourplot.png](https://i.postimg.cc/DyCHL12x/contourplot.png)](https://postimg.cc/1fqvZnVF)
 
